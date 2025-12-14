@@ -1,0 +1,26 @@
+[
+  {
+    "Author": "AtmoOmen",
+    "Name": "Repo Placeholder",
+    "InternalName": "AtmoOmenRepo",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "AtmoOmen Dalamud plugin repository",
+    "ApplicableVersion": "any",
+    "Tags": [],
+    "DalamudApiLevel": 9,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json"
+  },
+  {
+    "Author": "NiGuangOwO",
+    "Name": "Repo Placeholder",
+    "InternalName": "NiGuangOwORepo",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "NiGuangOwO Dalamud plugin repository",
+    "ApplicableVersion": "any",
+    "Tags": [],
+    "DalamudApiLevel": 9,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json"
+  }
+]
