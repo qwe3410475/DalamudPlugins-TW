@@ -289,5 +289,19 @@
   "DownloadLinkInstall": "https://github.com/NightmareXIV/TextAdvance/releases/download/3.2.4.5/TextAdvance.zip",
   "DownloadLinkUpdate": "https://github.com/NightmareXIV/TextAdvance/releases/download/3.2.4.5/TextAdvance.zip",
   "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/TextAdvance/master/images/icon.png"
+  },
+  {
+  "Author": "Det, Taurenkey",
+  "Name": "AutoHook (4.3.4.1)",
+  "InternalName": "AutoHook",
+  "AssemblyVersion": "4.3.4.1",
+  "RepoUrl": "https://github.com/qwe3410475/DalamudPlugins-TW",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 14,
+  "Punchline": "讓釣魚變得不那麼（或更）無聊。",
+  "Description": "AutoHook 舊版本 4.3.4.1，自動幫你拉竿釣魚。",
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/qwe3410475/DalamudPlugins-TW/main/AutoHook.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/qwe3410475/DalamudPlugins-TW/main/AutoHook.zip",
+  "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
   }
 ]
