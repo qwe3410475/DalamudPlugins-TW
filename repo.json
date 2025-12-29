@@ -259,8 +259,8 @@
   "Punchline": "傳送自動化與以太之光水晶的實用工具。",
   "Description": "提供傳送與以太之光水晶使用相關的自動化功能與實用工具。",
   "DalamudApiLevel": 12,
-  "DownloadLinkInstall": "https://github.com/NightmareXIV/Lifestream/releases/download/2.5.1.15/Lifestream.zip",
-  "DownloadLinkUpdate": "https://github.com/NightmareXIV/Lifestream/releases/download/2.5.1.15/Lifestream.zip"
+  "DownloadLinkInstall": "https://github.com/NightmareXIV/Lifestream/releases/download/2.5.1.15/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/NightmareXIV/Lifestream/releases/download/2.5.1.15/latest.zip"
   },
   {
   "Author": "NightmareXIV",
