@@ -1,27 +1,5 @@
 [
   {
-    "Name": "Daily Routines (API 12)",
-    "InternalName": "DailyRoutines",
-    "AssemblyVersion": "1.8.3.4",
-    "Author": "AtmoOmen",
-    "Punchline": "帮忙解决一些日常重复性劳动 / Help with some of the daily repetitive tasks",
-    "Description": "轻量化、低性能消耗、简单的自动化功能/易用性改动合集, 帮你从一些无意义的重复性工作中解放出来\nA collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
-    "ApplicableVersion": "any",
-    "LoadPriority": 10000,
-    "Tags": [
-      "Daily",
-      "Auto",
-      "日常",
-      "自动"
-    ],
-    "DalamudApiLevel": 12,
-    "AcceptsFeedback": true,
-    "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins",
-    "IconUrl": "https://raw.githubusercontent.com/AtmoOmen/StaticAssets/main/DailyRoutines/image/icon.png",
-    "DownloadLinkInstall": "https://github.com/AtmoOmen/DalamudPlugins/releases/download/DR-1.8.3.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AtmoOmen/DalamudPlugins/releases/download/DR-1.8.3.4/latest.zip"
-  },
-  {
     "Author": "Team Wrath, MeowZWR",
     "Name": "Wrath Combo",
     "InternalName": "WrathCombo",
@@ -291,5 +269,19 @@
   "DownloadLinkInstall": "https://github.com/aliceric27/Lazyloot-api12-zht/releases/download/v5.3.2.1/Lazyloot-api12-zht.zip",
   "DownloadLinkUpdate": "https://github.com/aliceric27/Lazyloot-api12-zht/releases/download/v5.3.2.1/Lazyloot-api12-zht.zip",
   "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
+  },
+  {
+  "Author": "erdelf, Herculezz",
+  "Name": "AutoDuty",
+  "InternalName": "AutoDuty",
+  "AssemblyVersion": "0.0.0.228",
+  "RepoUrl": "https://github.com/qwe3410475/DalamudPlugins-TW",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 12,
+  "Punchline": "在你睡覺、吃飯或工作的時候幫你刷副本。",
+  "Description": "一個可替你自動執行副本的插件，支援信賴任務、任務支援、小隊副本、變體迷宮與一般副本。需要搭配 BossMod、vnavmesh 以及旋轉插件（BossMod AutoRotation、Wrath 或 RotationSolverReborn）。",
+  "DownloadLinkInstall": "https://github.com/qwe3410475/DalamudPlugins-TW/releases/download/%E8%87%AA%E7%94%A8/AutoDuty.zip",
+  "DownloadLinkUpdate": "https://github.com/qwe3410475/DalamudPlugins-TW/releases/download/%E8%87%AA%E7%94%A8/AutoDuty.zip",
+  "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png"
   }
 ]
