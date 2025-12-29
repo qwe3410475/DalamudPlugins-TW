@@ -305,29 +305,17 @@
   "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
   },
   {
-    "Author": "Taurenkey, NightmareXIV, Gidedin",
-    "Name": "LazyLoot",
-    "Punchline": "Dungeon Loot but Lazy.",
-    "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
-    "Tags": [
-      "plugin",
-      "loot",
-      "utility",
-      "other"
-    ],
-    "InternalName": "LazyLoot",
-    "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-    "DownloadCount": 192572,
-    "LastUpdate": 1766319602,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.2.7/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.2.7/latest.zip",
-    "AssemblyVersion": "5.3.2.7",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "14",
-    "Changelog": "- 7.4",
-    "TestingAssemblyVersion": "5.3.2.2",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.2.2/testing.zip",
-    "TestingDalamudApiLevel": "13",
-    "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
+  "Author": "Taurenkey, NightmareXIV, Gidedin",
+  "Name": "LazyLoot",
+  "InternalName": "LazyLoot",
+  "AssemblyVersion": "5.3.2.1",
+  "RepoUrl": "https://github.com/aliceric27/Lazyloot-api12-zht",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 12,
+  "Punchline": "自動拾取 / 過濾掉不要的道具 (API12 中文化版)",
+  "Description": "LazyLoot 中文版，適用於 API12。在戰鬥中自動拾取物品並依條件過濾掉不想要的掉落。",
+  "DownloadLinkInstall": "https://github.com/aliceric27/Lazyloot-api12-zht/releases/download/v5.3.2.1/Lazyloot-api12-zht.zip",
+  "DownloadLinkUpdate": "https://github.com/aliceric27/Lazyloot-api12-zht/releases/download/v5.3.2.1/Lazyloot-api12-zht.zip",
+  "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
   }
 ]
