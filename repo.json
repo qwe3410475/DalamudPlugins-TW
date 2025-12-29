@@ -99,32 +99,6 @@
     "IconUrl": "https://s3.puni.sh/media/plugin/53/icon-w57fbqqfzwn.png"
   },
   {
-    "Author": "erdelf, Herculezz",
-    "Name": "AutoDuty",
-    "InternalName": "AutoDuty",
-    "AssemblyVersion": "0.0.0.228",
-    "RepoUrl": "https://github.com/erdelf/AutoDuty",
-    "Tags": [
-      "potd",
-      "hoh",
-      "eo",
-      "esp",
-      "radar",
-      "sonar",
-      "deep",
-      "dungeon"
-    ],
-    "ApplicableVersion": "any",
-    "Punchline": "Dungeons while you sleep, eat, or work. (Swimsuit Shtola made easy.)",
-    "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
-    "DalamudApiLevel": 12,
-    "DownloadCount": 0,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/qwe3410475/DalamudPlugins-TW/releases/download/%E8%87%AA%E7%94%A8/AutoDuty.zip",
-    "DownloadLinkUpdate": "https://github.com/qwe3410475/DalamudPlugins-TW/releases/download/%E8%87%AA%E7%94%A8/AutoDuty.zip",
-    "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png"
-  },
-  {
     "Author": "akira0245, Ori, Kalle, Zune",
     "Name": "MidiBard 2",
     "InternalName": "MidiBard2",
