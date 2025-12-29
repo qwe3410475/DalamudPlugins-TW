@@ -120,8 +120,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/qwe3410475/DalamudPlugins-TW/raw/refs/heads/main/AutoDuty.zip",
-    "DownloadLinkUpdate": "https://github.com/qwe3410475/DalamudPlugins-TW/raw/refs/heads/main/AutoDuty.zip",
+    "DownloadLinkInstall": "https://github.com/qwe3410475/DalamudPlugins-TW/releases/download/%E8%87%AA%E7%94%A8/AutoDuty.zip",
+    "DownloadLinkUpdate": "https://github.com/qwe3410475/DalamudPlugins-TW/releases/download/%E8%87%AA%E7%94%A8/AutoDuty.zip",
     "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png"
   },
   {
