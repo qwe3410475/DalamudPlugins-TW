@@ -99,30 +99,16 @@
     "IconUrl": "https://s3.puni.sh/media/plugin/53/icon-w57fbqqfzwn.png"
   },
   {
-    "Author": "erdelf, Herculezz",
-    "Name": "AutoDuty",
-    "InternalName": "AutoDuty",
-    "AssemblyVersion": "0.0.0.228",
-    "RepoUrl": "https://github.com/erdelf/AutoDuty",
-    "Tags": [
-      "potd",
-      "hoh",
-      "eo",
-      "esp",
-      "radar",
-      "sonar",
-      "deep",
-      "dungeon"
-    ],
-    "ApplicableVersion": "any",
-    "Punchline": "在你睡覺、吃飯或工作的時候自動跑副本。",
-    "Description": "讓插件代替你進行副本內容，支援信賴夥伴、任務支援、小隊、變體迷宮與一般副本。需要搭配 BossMod、vnavmesh 以及一個循環插件（BossMod AutoRotation、Wrath 或 RotationSolverReborn）。",
-    "DalamudApiLevel": 12,
-    "DownloadCount": 0,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/ffxivcode/AutoDuty/archive/refs/tags/0.0.0.228.zip",
-    "DownloadLinkUpdate": "https://github.com/ffxivcode/AutoDuty/archive/refs/tags/0.0.0.228.zip",
-    "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png"
+  "Name": "AutoDuty",
+  "InternalName": "AutoDuty",
+  "AssemblyVersion": "0.0.0.228",
+  "Author": "erdelf, Herculezz",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 12,
+  "Punchline": "在你睡覺、吃飯或工作的時候自動跑副本。",
+  "Description": "讓插件代替你進行副本內容，支援信賴/任務支援/小隊/變體迷宮/一般副本。需要 BossMod、vnavmesh 與循環插件（BossMod AutoRotation、Wrath 或 RotationSolverReborn）。",
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/qwe3410475/DalamudPlugins-TW/main/plugins/AutoDuty/AutoDuty-0.0.0.228.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/qwe3410475/DalamudPlugins-TW/main/plugins/AutoDuty/AutoDuty-0.0.0.228.zip"
   },
   {
     "Author": "akira0245, Ori, Kalle, Zune",
@@ -281,13 +267,13 @@
   "Name": "TextAdvance",
   "InternalName": "TextAdvance",
   "AssemblyVersion": "3.2.4.5",
-  "RepoUrl": "https://github.com/NightmareXIV/TextAdvance",
+  "RepoUrl": "https://github.github.com/NightmareXIV/TextAdvance",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 12,
   "Punchline": "任務快速處理輔助工具",
   "Description": "加速任務流程，自動確認任務接取與完成、跳過字幕和過場動畫，並自動與任務目標互動。",
-  "DownloadLinkInstall": "https://github.com/NightmareXIV/TextAdvance/releases/download/3.2.4.5/TextAdvance.zip",
-  "DownloadLinkUpdate": "https://github.com/NightmareXIV/TextAdvance/releases/download/3.2.4.5/TextAdvance.zip",
+  "DownloadLinkInstall": "https://github.com/NightmareXIV/TextAdvance/releases/download/3.2.4.5/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/NightmareXIV/TextAdvance/releases/download/3.2.4.5/latest.zip",
   "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/TextAdvance/master/images/icon.png"
   },
   {
