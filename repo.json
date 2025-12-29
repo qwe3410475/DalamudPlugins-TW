@@ -107,8 +107,8 @@
   "DalamudApiLevel": 12,
   "Punchline": "在你睡覺、吃飯或工作的時候自動跑副本。",
   "Description": "讓插件代替你進行副本內容，支援信賴/任務支援/小隊/變體迷宮/一般副本。需要 BossMod、vnavmesh 與循環插件（BossMod AutoRotation、Wrath 或 RotationSolverReborn）。",
-  "DownloadLinkInstall": "https://github.com/ffxivcode/AutoDuty/archive/refs/tags/0.0.0.228.zip",
-  "DownloadLinkUpdate": "https://github.com/ffxivcode/AutoDuty/archive/refs/tags/0.0.0.228.zip"
+  "DownloadLinkInstall": "https://github.com/qwe3410475/DalamudPlugins-TW/blob/main/AutoDuty.zip",
+  "DownloadLinkUpdate": "https://github.com/qwe3410475/DalamudPlugins-TW/blob/main/AutoDuty.zip"
   },
   {
     "Author": "akira0245, Ori, Kalle, Zune",
