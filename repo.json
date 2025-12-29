@@ -272,4 +272,17 @@
     "Changelog": "- API 12\n- ※繁體中文版本暫不提供任何支援，如無法使用請自行使用 API12 進行編譯。",
     "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png"
   },
+  {
+  "Author": "NightmareXIV",
+  "Name": "Lifestream",
+  "InternalName": "Lifestream",
+  "AssemblyVersion": "2.5.1.15",
+  "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
+  "ApplicableVersion": "any",
+  "Punchline": "Teleport automation and aetheryte utility.",
+  "Description": "Provides automation and utilities for teleporting and aetheryte usage.",
+  "DalamudApiLevel": 12,
+  "DownloadLinkInstall": "https://github.com/NightmareXIV/Lifestream/releases/download/2.5.1.15/Lifestream.zip",
+  "DownloadLinkUpdate": "https://github.com/NightmareXIV/Lifestream/releases/download/2.5.1.15/Lifestream.zip"
+  }
 ]
