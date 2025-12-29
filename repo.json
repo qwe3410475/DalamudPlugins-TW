@@ -283,5 +283,19 @@
   "DownloadLinkInstall": "https://github.com/qwe3410475/DalamudPlugins-TW/releases/download/%E8%87%AA%E7%94%A8/AutoDuty.zip",
   "DownloadLinkUpdate": "https://github.com/qwe3410475/DalamudPlugins-TW/releases/download/%E8%87%AA%E7%94%A8/AutoDuty.zip",
   "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png"
+  },
+  {
+  "Author": "veyn, xan_0",
+  "Name": "Boss Mod",
+  "InternalName": "Boss Mod",
+  "AssemblyVersion": "0.4.12.1",
+  "RepoUrl": "https://github.com/qwe3410475/DalamudPlugins-TW",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 12,
+  "Punchline": "再也不會在團本機制上失誤",
+  "Description": "一系列用來簡化首領戰的實用工具，目前支援《曉月之終途》內容。",
+  "DownloadLinkInstall": "https://github.com/qwe3410475/DalamudPlugins-TW/releases/download/%E8%87%AA%E7%94%A8/Bossmod.zip",
+  "DownloadLinkUpdate": "https://github.com/qwe3410475/DalamudPlugins-TW/releases/download/%E8%87%AA%E7%94%A8/Bossmod.zip",
+  "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png"
   }
 ]
