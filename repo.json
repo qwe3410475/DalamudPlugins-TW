@@ -285,5 +285,19 @@
   "DalamudApiLevel": 12,
   "DownloadLinkInstall": "https://github.com/NightmareXIV/Lifestream/releases/download/2.5.1.15/Lifestream.zip",
   "DownloadLinkUpdate": "https://github.com/NightmareXIV/Lifestream/releases/download/2.5.1.15/Lifestream.zip"
+  },
+  {
+  "Author": "NightmareXIV",
+  "Name": "TextAdvance",
+  "InternalName": "TextAdvance",
+  "AssemblyVersion": "3.2.4.5",
+  "RepoUrl": "https://github.com/NightmareXIV/TextAdvance",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 12,
+  "Punchline": "任務快速處理輔助工具",
+  "Description": "加速任務流程，自動確認任務接取與完成、跳過字幕和過場動畫，並自動與任務目標互動。",
+  "DownloadLinkInstall": "https://github.com/NightmareXIV/TextAdvance/releases/download/3.2.4.5/TextAdvance.zip",
+  "DownloadLinkUpdate": "https://github.com/NightmareXIV/TextAdvance/releases/download/3.2.4.5/TextAdvance.zip",
+  "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/TextAdvance/master/images/icon.png"
   }
 ]
